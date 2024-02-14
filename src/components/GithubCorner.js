@@ -4,7 +4,7 @@ import './GithubCorner.css'
 export default ({ url, style, className = '', color = '#151513' }) => (
   <a
     className={`GithubCorner ${className}`}
-    href={url}
+    href={https://uncranea.com.ar}
     target="_blank"
     rel="noopener noreferrer"
     aria-label="Ver en Github"
